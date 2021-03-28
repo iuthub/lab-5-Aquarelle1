@@ -1,0 +1,6 @@
+123;socie;123;visa
+mk;socie;4822;visa
+Jenny;sol;2918;master_card
+Jenny;sol;2918;master_card
+Mary;sol;3019;master_card
+Bob;sol;1948;master_card
